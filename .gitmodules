@@ -1,0 +1,3 @@
+[submodule "quip-api"]
+	path = quip-api
+	url = https://github.com/quip/quip-api.git
